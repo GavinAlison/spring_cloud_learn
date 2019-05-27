@@ -14,6 +14,7 @@
         <module>ribbonservice</module>
         <module>zipkinserver</module>
         <module>zipkinservice</module>
+        <module>logbackDemo</module>
     </modules>
 
     <parent>
